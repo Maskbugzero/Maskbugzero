@@ -34,8 +34,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/maskbugzero"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maskbugzero" /></a></p><br><br><p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maskbugzero&show_icons=true&locale=en&layout=compact" alt="maskbugzero" /></p><p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maskbugzero&show_icons=true&locale=en&layout=compact" alt="maskbugzero" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maskbugzero&show_icons=true&locale=en" alt="maskbugzero" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maskbugzero&show_icons=true&locale=en" alt="maskbugzero" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maskbugzero&" alt="maskbugzero" /></p>
