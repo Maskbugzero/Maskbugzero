@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/maskbugzero" target="blank"><img src="https://img.shields.io/twitter/follow/maskbugzero?logo=twitter&style=for-the-badge" alt="maskbugzero" /></a> </p>
 
-- 🔭 I’m currently working on [Maskbugzero^Blog](https://maskbugzero.github.io/)
+- 🔭 I’m currently working on [Netkeeper-OpenWrt](https://github.com/Maskbugzero/Netkeeper-OpenWrt)
 
 - 🌱 I’m currently learning **STM32,ESP8266**
 
 - 👨‍💻 All of my projects are available at [Github^Maskbugzero](https://github.com/Maskbugzero)
 
-- 📝 I regularly write articles on [Maskbugzero^Blog](https://maskbugzero.github.io/)
+- 📝 I regularly write articles on [Maskbugzero^Blog](https://blog.maskbugzero.tk)
 
 - 💬 Ask me about **Relations,Programming,Startups**
 
