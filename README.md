@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Maskbugzero)
 
-- 📝 I regularly write articles on [Maskbugzero^Blog](https://blog.maskbugzero.tk)
+- 📝 I regularly write articles on [Maskbugzero^Blog](https://maskbugzero.cf)
 
 - 💬 Ask me about **Relations,Programming,Startups**
 
